@@ -2,9 +2,6 @@
 
 This project is a web application that allows users to explore historical football match data, fetch live (post-match) data into the system, and predict future match outcomes using machine learning models. The project covers approximately 25 years of data from six major football leagues (Premier League, Ligue 1, Bundesliga, Serie A, La Liga, Süper Lig).
 
-![Project Interface Example](https://i.imgur.com/your_screenshot_link_here.png)
-*(You can add a link to a general interface screenshot here, e.g., the homepage or data viewing page like Figure 1, Figure 5, or Figure 6 from your PDF.)*
-
 ## ⚽ Project Description
 
 Developed for football enthusiasts and data aficionados, this platform makes exploring past matches and predicting future outcomes easier than ever. With data collected from six major leagues since the year 2000, users can filter matches, compare statistics, and generate smart predictions. Our goal is to connect curiosity with data-driven insights.
