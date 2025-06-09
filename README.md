@@ -93,9 +93,6 @@ This project was developed using Agile software development principles. The deve
 *   **Sprint 2 Focus Areas:** Machine Learning Model Creation, Testing, Performance Optimization, Debugging, Prediction Interface Enhancements.
 *   Emphasis was placed on user stories, sprint goals, and delivering Potentially Shippable Increments/Minimum Viable Products.
 
-![Trello Board Example](https://i.imgur.com/your_trello_screenshot_link.png)
-*(You can add a link to a screenshot of your Trello board here.)*
-
 ## ⚠️ Limitations and Known Issues
 
 *   **Data Incompleteness:** Some historical match data may be missing, especially for older seasons. This may affect the accuracy of predictions.
@@ -109,6 +106,5 @@ This project was developed using Agile software development principles. The deve
 ## 🧑‍💻 Team Members
 
 *   Hatice Kandemir
-*   Ece Küçük
 *   Köksal Kerem Tanıl
 *   Defne Turğut
